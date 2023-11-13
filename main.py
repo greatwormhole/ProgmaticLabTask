@@ -40,7 +40,7 @@ def solve(string: str, available_operations: dict, target_value: int = 200) -> l
     for iteration in available_positions:
         operations = _convert_to_str(iteration, current_base, len(string))
         
-        print(f'Iteration #{iteration} out of {max_op}')
+        # print(f'Iteration #{iteration} out of {max_op}')
         
         expr = string[0]
         

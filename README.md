@@ -5,3 +5,5 @@
 ```bash
 python main.py
 ```
+- Пример работы программы: ![text](https://github.com/greatwormhole/ProgmaticLabTask/blob/main/example.png)
+- Версия python: 3.10.12
